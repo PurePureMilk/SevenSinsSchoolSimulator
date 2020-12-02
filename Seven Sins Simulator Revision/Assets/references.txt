@@ -1,0 +1,51 @@
+Sprite0.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+Sprite1.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+Sprite2.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+Sprite3.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+Sprite4.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+Background.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+Sprite2.gameObject.GetComponent<SpriteRenderer>().sprite = Hideo;
+
+myText.color = new Color(140f / 255.0f, 122f / 255.0f, 4f / 255.0f); //Gold Hideo
+
+myText.color = new Color(51f / 255.0f, 9f / 255.0f, 107f / 255.0f); //Purple Freshie
+
+myText.color = new Color(150f / 255.0f, 15f / 255.0f, 191f / 255.0f); //Pinky Purple Ofria
+
+myText.color = new Color(196f / 255.0f, 19f / 255.0f, 140f / 255.0f); //Rosy Akira
+
+myText.color = new Color(116f / 255.0f, 105f / 255.0f, 234f / 255.0f); //Blue Purple Eiko
+
+myText.color = new Color(30f / 255.0f, 119f / 255.0f, 28f / 255.0f); //Green Nagisa
+
+myText.color = new Color(30f / 255.0f, 160f / 255.0f, 149f / 255.0f); //Jade Teiji
+
+myText.color = new Color(153f / 255.0f, 13f / 255.0f, 32f / 255.0f); //Red Wakako
+
+myText.color = new Color(26f / 255.0f, 93f / 255.0f, 201f / 255.0f); //Blue Other Characters
+
+
+
+
+    public Sprite Cafe;
+    public Sprite Exit;
+    public Sprite Gym;
+    public Sprite Hallway;
+    public Sprite Hallway2;
+    public Sprite MainEntrance;
+    public Sprite MediaCenter;
+    public Sprite Music;
+    public Sprite NightMainEntrance;
+    public Sprite Stage1;
+    public Sprite Stage2;
+    public Sprite Stage3;
+    public Sprite Stairs;
+    public Sprite Math;
+    public Sprite Homeroom;
+    public Sprite Science;

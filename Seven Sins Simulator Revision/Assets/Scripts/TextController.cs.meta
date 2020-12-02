@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 68177947bbbea94479822db0153f3187
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sprite0: {instanceID: 0}
+  - Sprite1: {instanceID: 0}
+  - Sprite2: {instanceID: 0}
+  - Sprite3: {instanceID: 0}
+  - Box: {instanceID: 0}
+  - Background: {instanceID: 0}
+  - Akira: {fileID: 21300000, guid: 1d3cdc67317899448be851955c4ceb26, type: 3}
+  - Eiko: {fileID: 21300000, guid: 2259b29c0c1662040b6c0c5f9b7f3016, type: 3}
+  - Wakako: {fileID: 21300000, guid: 4901b5592360ddb42a6906c518df948f, type: 3}
+  - Teiji: {fileID: 21300000, guid: 1c108996f4c2ec442b75550485e71276, type: 3}
+  - Ofria: {fileID: 21300000, guid: 4a79c35116ec8ce4a89ac879f4a44bef, type: 3}
+  - Nagisa: {fileID: 21300000, guid: d3be6ce3141b25e46b634a4120718847, type: 3}
+  - Hideo: {fileID: 21300000, guid: 8d602d79cdc26884db6d9af603f9a935, type: 3}
+  - Blank: {fileID: 21300000, guid: b9eeaae1223101d449e4ccccd8c1a485, type: 3}
+  - Cafe: {fileID: 21300000, guid: bf2317b003b91f0479a02e722e04a099, type: 3}
+  - Exit: {fileID: 21300000, guid: 1b135b0e4f226fa409bfca6628b44a97, type: 3}
+  - Gym: {fileID: 21300000, guid: 32e158f6f9cb5f44db564d1c84c879bf, type: 3}
+  - Hallway: {fileID: 21300000, guid: 78d932550f19be44aaf016ead118c0e3, type: 3}
+  - Hallway2: {fileID: 21300000, guid: 3b141b10d6838d14aa427f2e5dd1d5ad, type: 3}
+  - MainEntrance: {fileID: 21300000, guid: 9036e0649b7d6c44fa7a559ee460d0a6, type: 3}
+  - MediaCenter: {fileID: 21300000, guid: 02de4224bb625084ea9084dadd85caa6, type: 3}
+  - Music: {fileID: 21300000, guid: 90924def93b81c347a59fe089140d89f, type: 3}
+  - NightMainEntrance: {fileID: 21300000, guid: 2f10ce923da2d9b44bfd67ccbd3da9a5,
+      type: 3}
+  - Stage1: {fileID: 21300000, guid: 74dbdc992a583264bb00f203993aba83, type: 3}
+  - Stage2: {fileID: 21300000, guid: 993bfe8a3621e934c97af2fab61078ff, type: 3}
+  - Stage3: {fileID: 21300000, guid: 9eb2b5e5aab4d3343b2ddefa64365ae7, type: 3}
+  - Stairs: {fileID: 21300000, guid: 985a6bb4f2b09584c988221cfc21fb37, type: 3}
+  - Math: {fileID: 21300000, guid: f10252e758d16f941a66f493c5662828, type: 3}
+  - Homeroom: {fileID: 21300000, guid: 8fd0c65849425ee4a945c9d7634ddbb4, type: 3}
+  - Science: {fileID: 21300000, guid: 1d70ae22081676b468bdad7a0264cc47, type: 3}
+  - myText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
